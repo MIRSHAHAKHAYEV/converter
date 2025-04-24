@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     const rightInput = document.querySelector('.right-input');
     const hamburgerButton = document.querySelector('.hamburger-button');
     const hamburgerWrapper = document.querySelector('.hamburger-wrapper');
-    const API_KEY = "0914d85c7a202519ec8ee561089f1652"; // Valyuta məzənnələri üçün API açarı
+    const API_KEY = "9d61709f7022c6b6e6a83203c6787fd1"; // Valyuta məzənnələri üçün API açarı
     const errorWrapper = document.querySelector('.error-wrapper');
     let leftRate, rightRate; // Konversiya məzənnələri üçün dəyişənlər
     let activeInput = "left"; // Hansı input sahəsinin aktiv olduğunu izləyirik
